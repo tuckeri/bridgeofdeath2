@@ -1,0 +1,10 @@
+H:\GitHub\bridgeofdeath2\bridgeofdeath2\bin\Debug\bridgeofdeath2.exe.config
+H:\GitHub\bridgeofdeath2\bridgeofdeath2\obj\Debug\bridgeofdeath2.Form1.resources
+H:\GitHub\bridgeofdeath2\bridgeofdeath2\obj\Debug\bridgeofdeath2.Resources.resources
+H:\GitHub\bridgeofdeath2\bridgeofdeath2\obj\Debug\bridgeofdeath2.vbproj.GenerateResource.Cache
+H:\GitHub\bridgeofdeath2\bridgeofdeath2\bin\Debug\bridgeofdeath2.exe
+H:\GitHub\bridgeofdeath2\bridgeofdeath2\bin\Debug\bridgeofdeath2.pdb
+H:\GitHub\bridgeofdeath2\bridgeofdeath2\bin\Debug\bridgeofdeath2.xml
+H:\GitHub\bridgeofdeath2\bridgeofdeath2\obj\Debug\bridgeofdeath2.exe
+H:\GitHub\bridgeofdeath2\bridgeofdeath2\obj\Debug\bridgeofdeath2.xml
+H:\GitHub\bridgeofdeath2\bridgeofdeath2\obj\Debug\bridgeofdeath2.pdb
